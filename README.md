@@ -11,7 +11,7 @@ In the final part(Thesis), there are Problem Statement, Research objectives, Rel
 
 <br>
 <br>
-<p align="center"> Click the <a href="https://ieeexplore.ieee.org/document/10940339">link</a> below to see the publication in IEEE <i>Xplore</i></p>
+<p align="center"> Click the <a href="https://ieeexplore.ieee.org/document/10940339">link</a> to explore more in IEEE <i>Xplore</i></p>
     
 
 
